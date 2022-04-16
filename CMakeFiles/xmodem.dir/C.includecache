@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/crc16.c
+crc16.h
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/crc16.h
+
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/crc16.h
+

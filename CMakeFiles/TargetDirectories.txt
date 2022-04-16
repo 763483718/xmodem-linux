@@ -1,0 +1,7 @@
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/install.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/list_install_components.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/rebuild_cache.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/xmodem.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/install/strip.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/install/local.dir
+/home/tuto/code/rk1808/cgz_folder/xmodem-linux/CMakeFiles/edit_cache.dir
